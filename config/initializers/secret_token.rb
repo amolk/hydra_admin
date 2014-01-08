@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-HydraAdmin::Application.config.secret_key_base = 'a021aed6a19858434be597cccd3d9aa92566469ffac5afd0290de56d1bf3dbf950344397b785d072c39fc97afa028941b6555f1dca091af656850e78374ceea1'
+HydraAdmin::Application.config.secret_key_base = '3e105016bfccf4afa1b7bc20bad8d2ca964236f478693734b54a82fcba79b662bfb5dd0266a25b3cf802abf14b09bf39cb86e031df43b80a2b52aac473faa847'
